@@ -1,7 +1,6 @@
 ### Hello, I'm Iniobong Udom 👋
 
- A Passionate Full-Stack Developer 
-###<p>I'm Iniobong Udom, a passionate Full Stack developer and Technical Support Specialist with proven
+ A Passionate Full-Stack Developer and Technical Support Specialist with proven
                      ability in optimizing web funtional that improves data retrieval and workflow efficiency.
                     <p>One thing that is unique about me is the sense of duty when i am assigned a task, i feel obligated 
                     to complete it especially
