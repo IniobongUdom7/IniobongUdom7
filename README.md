@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ChatGPT alternative that uses openAi API.
 
- - 🌐 You can find my website here: https://Iniobongudom.com
+ - 🌐 You can find my website here: https://Iniobongudom.netlify.app
 
 - 🌱 I’m currently learning MERN Stack and web3.
 
