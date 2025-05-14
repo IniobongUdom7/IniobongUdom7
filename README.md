@@ -1,5 +1,5 @@
 ### Hello, I'm Iniobong Udom 👋
-A software Engineer and technical writer.
+A Web Developer and technical writer.
 
                     
 <!--**IniobongUdom7/IniobongUdom7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🛸 open to work and freelancing? **Yes**.
 
-- 💬 Ask me about: **Web development**.
+- 💬 Ask me about: **Web development and Web Design**.
 
 - 📫 How to reach me: udompowerini@gmail.com
 
