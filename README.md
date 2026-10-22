@@ -1,33 +1,39 @@
-### Hello, I'm Iniobong Udom 👋
-A Web Developer and technical writer.
+# Hi, I'm Iniobong Udom 👋
 
-                    
-<!--**IniobongUdom7/IniobongUdom7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer expanding into **AI automation**. I build websites and practical automated workflows that help businesses reduce repetitive work, improve follow-up, and operate more efficiently.
 
-Here are some ideas to get you started:
--->
+- 🔭 **Current focus:** AI automation with n8n
+- 🌐 **Background:** Web design and development
+- ⚙️ **Building with:** n8n, AI model integrations, Google Sheets, and Gmail
+- 🤝 **Interested in:** Practical automation projects that solve real business problems
 
-## 🔭 I’m currently working on ChatGPT alternative that uses openAi API.
+## Skills & Tools
 
- - 🌐 You can find my website here: https://Iniobongudom.netlify.app
+- **AI automation:** n8n, AI model integrations
+- **Workflow integrations:** Google Sheets, Gmail, scheduled triggers
+- **Web development:** HTML, CSS, JavaScript, responsive websites
+- **Digital business:** Landing pages and lead-generation workflows
 
-- 🌱 I’m currently learning MERN Stack and web3.
+## Featured Project
 
-- 👯 I’m looking to collaborate with JavaScript Projects.
+### AI-Powered Daily Motivational Email Automation
 
-- 🤔 I’m looking for help with: **best approach to learn and teach Reactjs**.
+An n8n workflow that uses an AI model to generate a motivational quote and sends personalized emails to recipients listed in Google Sheets.
 
-- 🛸 open to work and freelancing? **Yes**.
+**Workflow:** Schedule Trigger → AI model → Google Sheets recipient list → Gmail
 
-- 💬 Ask me about: **Web development and Web Design**.
+**What it demonstrates**
+- Scheduled workflow automation
+- AI-generated content
+- Reading recipient data from Google Sheets
+- Personalized email delivery through Gmail
 
-- 📫 How to reach me: udompowerini@gmail.com
+*Demo video and workflow export will be linked here as project assets are published.*
 
-- 😄 Pronouns: He.
+## Connect
 
-- ⚡ Fun fact: I love reading alot.
+- **LinkedIn:** https://linkedin.com/in/iniobongudom7
+- **Website:** https://Iniobongudom.netlify.app
+- **GitHub:** https://github.com/IniobongUdom7
 
--
-
-
-[![IniobongUdom7 GitHub stats](https://github-readme-stats.vercel.app/api?username=IniobongUdom7&theme=dark&show_icons=true)](https://github.com/IniobongUdom7/github-readme-stats)
+I'm documenting hands-on projects as I grow in AI automation and business workflow design.
