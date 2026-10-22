@@ -28,7 +28,9 @@ An n8n workflow that uses an AI model to generate a motivational quote and sends
 - Reading recipient data from Google Sheets
 - Personalized email delivery through Gmail
 
-*Demo video and workflow export will be linked here as project assets are published.*
+**Project repository:** [View the project documentation](https://github.com/IniobongUdom7/ai-daily-motivational-email)
+
+*Demo video and sanitized workflow export will be added as project assets are published.*
 
 ## Connect
 
