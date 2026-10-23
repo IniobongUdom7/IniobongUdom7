@@ -30,12 +30,12 @@ An n8n workflow that uses an AI model to generate a motivational quote and sends
 
 **Project repository:** [View the project documentation](https://github.com/IniobongUdom7/ai-daily-motivational-email)
 
-*Demo video and sanitized workflow export will be added as project assets are published.*
+**Demo video:** [Watch the Loom walkthrough](https://www.loom.com/share/3698b08fe74a4a9e8da4990402397cb4)
 
 ## Connect
 
 - **LinkedIn:** https://linkedin.com/in/iniobongudom7
-- **Website:** https://Iniobongudom.netlify.app
+- **Website:** https://IniobongUdom.netlify.app
 - **GitHub:** https://github.com/IniobongUdom7
 
 I'm documenting hands-on projects as I grow in AI automation and business workflow design.
