@@ -32,6 +32,16 @@ An n8n workflow that uses an AI model to generate a motivational quote and sends
 
 **Demo video:** [Watch the Loom walkthrough](https://www.loom.com/share/3698b08fe74a4a9e8da4990402397cb4)
 
+## More AI Automation Projects
+
+### Daily Exchange Rate Telegram Automation
+
+A scheduled n8n workflow that sends three configured exchange-rate values to Telegram every morning at 8:00 AM, with each rate on its own line.
+
+- [Project README](https://github.com/IniobongUdom7/IniobongUdom7/blob/main/projects/daily-exchange-rate-telegram/README.md)
+- [Workflow overview](https://github.com/IniobongUdom7/IniobongUdom7/blob/main/projects/daily-exchange-rate-telegram/docs/WORKFLOW.md)
+- [Setup and security guide](https://github.com/IniobongUdom7/IniobongUdom7/blob/main/projects/daily-exchange-rate-telegram/docs/SETUP.md)
+
 ## Connect
 
 - **LinkedIn:** https://linkedin.com/in/iniobongudom7
